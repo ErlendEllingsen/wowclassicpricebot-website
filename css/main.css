@@ -1,3 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,300,400,700);
+
+.price {
+    color: #7FFFD4;
+}
+
+.craftingprice {
+    color: #FFD47F;
+}
+
+body {
+      background: #333;
+  color: #FFF;
+  font-family: "Open Sans";
+  font-weight: 300;
+    }
+      .typing {
+        position: relative;
+        line-height: 24px;
+        display: inline-block;
+        color: #FFF;
+        min-width: 1px;
+        min-height: 24px;
+      }
+      .typing:after {
+        content: "";
+        position: absolute;
+        top: 5%;
+        right: -2px;
+        width: 1px;
+        height: 90%;
+        border-right: 2px solid #FFF;
+        animation: blink .5s infinite ease;
+      }
+      @keyframes blink{
+        0% {
+          opacity: 0;
+        }
+        100% {
+          opacity: 1%;
+        }
+      }
+
 body {
     font-family: 'Poppins', sans-serif !important;
     background-color: #23272A;
