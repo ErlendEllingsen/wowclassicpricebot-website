@@ -52,10 +52,10 @@ document.addEventListener('DOMContentLoaded', () => {
     type: '<span class="price">price</span>',
     name: 'Edgemaster\'s Handguards'
   }, {
-    type: '<span class="price">price</span>',
+    type: '<span class="craftingprice">craftingprice</span>',
     name: 'Spellpower Goggles Xtreme'
   }, {
-    type: '<span class="price">price</span>',
+    type: '<span class="craftingprice">craftingprice</span>',
     name: 'Flask of Supreme Power'
   },
   ];
