@@ -1,22 +1,31 @@
 document.addEventListener('DOMContentLoaded', () => {
   var typeString = [{
     type: '<span class="price">price</span>',
-    name: 'Flask of titans'
+    name: 'Flask of the Titans'
   }, {
     type: '<span class="price">price</span>',
-    name: 'Elemental earth'
+    name: 'Elemental Earth'
   }, {
     type: '<span class="price">price</span>',
     name: 'Greater Fire Protection Potion'
   }, {
     type: '<span class="price">price</span>',
-    name: 'Black lotus'
+    name: 'Black Lotus'
   }, {
     type: '<span class="price">price</span>',
     name: 'Greater Arcane Elixir'
   }, {
     type: '<span class="price">price</span>',
     name: 'Greater Arcane Elixir'
+  }, {
+    type: '<span class="price">price</span>',
+    name: 'Black Dragonscale'
+  }, {
+    type: '<span class="price">price</span>',
+    name: 'Mithril Ore'
+  }, {
+    type: '<span class="price">price</span>',
+    name: 'Dreamfoil'
   }, {
     type: '<span class="craftingprice">craftingprice</span>',
     name: 'Elixir of Shadow Power'
@@ -35,13 +44,19 @@ document.addEventListener('DOMContentLoaded', () => {
   },
   {
     type: '<span class="craftingprice">craftingprice</span>',
-    name: 'Major mana potion'
+    name: 'Major Mana Potion'
   }, {
     type: '<span class="price">price</span>',
-    name: 'Major healing potion'
+    name: 'Major Healing Potion'
   }, {
     type: '<span class="price">price</span>',
     name: 'Edgemaster\'s Handguards'
+  }, {
+    type: '<span class="price">price</span>',
+    name: 'Spellpower Goggles Xtreme'
+  }, {
+    type: '<span class="price">price</span>',
+    name: 'Flask of Supreme Power'
   },
   ];
   var  i = 0;
