@@ -27,6 +27,9 @@ document.addEventListener('DOMContentLoaded', () => {
     type: '<span class="price">price</span>',
     name: 'Dreamfoil'
   }, {
+    type: '<span class="price">price</span>',
+    name: 'Runecloth'
+  }, {
     type: '<span class="craftingprice">craftingprice</span>',
     name: 'Elixir of Shadow Power'
   },
@@ -57,7 +60,13 @@ document.addEventListener('DOMContentLoaded', () => {
   }, {
     type: '<span class="craftingprice">craftingprice</span>',
     name: 'Flask of Supreme Power'
-  },
+  }, {
+    type: '<span class="craftingprice">craftingprice</span>',
+    name: 'Annihilator'
+  }, {
+    type: '<span class="craftingprice">craftingprice</span>',
+    name: 'Robe of the Archmage'
+  },  
   ];
   var  i = 0;
   var count = Math.floor(Math.random()*typeString.length);
