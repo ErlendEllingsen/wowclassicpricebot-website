@@ -112,9 +112,9 @@ name: 'Enchanted Leather'
   ];
   var  i = 0;
   var count = Math.floor(Math.random()*typeString.length);
+  document.getElementById('demoCommand').innerHTML = typeString[count].type;
   var selectedText = '';
   var text = '';
-  document.getElementById('demoCommand').innerHTML = typeString[0].type;
   (function type() {
     selectedText = typeString[count].name;
     text = selectedText.slice(0, ++i);
