@@ -53,10 +53,31 @@ document.addEventListener('DOMContentLoaded', () => {
     name: 'Major Healing Potion'
   }, {
     type: '<span class="price">price</span>',
+    name: 'Mooncloth'
+  }, {
+    type: '<span class="price">price</span>',
+    name: 'Five of Beasts'
+  }, {
+    type: '<span class="price">price</span>',
+    name: 'Arena Wristguards'
+  }, {
+    type: '<span class="price">price</span>',
+    name: 'Dark Iron Bar'
+  }, {
+    type: '<span class="price">price</span>',
+    name: 'Golden Pearl'
+  }, {
+    type: '<span class="price">price</span>',
+    name: 'Volatile Rum'
+  }, {
+    type: '<span class="price">price</span>',
     name: 'Edgemaster\'s Handguards'
   }, {
     type: '<span class="craftingprice">craftingprice</span>',
     name: 'Spellpower Goggles Xtreme'
+  }, {
+    type: '<span class="craftingprice">craftingprice</span>',
+    name: 'Felcloth Bag'
   }, {
     type: '<span class="craftingprice">craftingprice</span>',
     name: 'Flask of Supreme Power'
