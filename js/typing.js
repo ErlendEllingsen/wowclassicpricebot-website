@@ -32,7 +32,16 @@ document.addEventListener('DOMContentLoaded', () => {
   }, {
     type: '<span class="craftingprice">craftingprice</span>',
     name: 'Elixir of Shadow Power'
-  },
+  }, {
+  type: '<span class="craftingprice">craftingprice</span>',
+  name: 'Free Action Potion'
+},{
+  type: '<span class="craftingprice">craftingprice</span>',
+  name: 'Fire Oil'
+}, {
+type: '<span class="craftingprice">craftingprice</span>',
+name: 'Enchanted Leather'
+},
   {
     type: '<span class="craftingprice">craftingprice</span>',
     name: 'Lionheart Helm'
@@ -80,7 +89,7 @@ document.addEventListener('DOMContentLoaded', () => {
     name: 'Black Amnesty'
   },{
     type: '<span class="craftingprice">craftingprice</span>',
-    name: 'Mithril Shield Spike'
+    name: 'Mithril Shield Spike '
   },{
     type: '<span class="craftingprice">craftingprice</span>',
     name: 'Beasts Deck'
