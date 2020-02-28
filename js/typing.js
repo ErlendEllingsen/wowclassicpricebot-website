@@ -77,6 +77,18 @@ document.addEventListener('DOMContentLoaded', () => {
     name: 'Spellpower Goggles Xtreme'
   }, {
     type: '<span class="craftingprice">craftingprice</span>',
+    name: 'Black Amnesty'
+  },{
+    type: '<span class="craftingprice">craftingprice</span>',
+    name: 'Mithril Shield Spike'
+  },{
+    type: '<span class="craftingprice">craftingprice</span>',
+    name: 'Beasts Deck'
+  }, {
+      type: '<span class="craftingprice">craftingprice</span>',
+      name: 'Field Repair Bot 74A'
+    }, {
+    type: '<span class="craftingprice">craftingprice</span>',
     name: 'Felcloth Bag'
   }, {
     type: '<span class="craftingprice">craftingprice</span>',
