@@ -89,7 +89,10 @@ name: 'Enchanted Leather'
     name: 'Black Amnesty'
   },{
     type: '<span class="craftingprice">craftingprice</span>',
-    name: 'Mithril Shield Spike '
+    name: 'Mithril Shield Spike'
+  },{
+    type: '<span class="craftingprice">craftingprice</span>',
+    name: 'Arcanite Rod'
   },{
     type: '<span class="craftingprice">craftingprice</span>',
     name: 'Beasts Deck'
