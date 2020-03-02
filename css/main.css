@@ -8,8 +8,22 @@
     color: #FFD47F;
 }
 
+@media only screen and (max-width: 600px) {
+    body {
+        background-image: url('../bwl_mobile.jpg');
+    }
+}
+
+@media only screen and (min-width: 600px) {
 body {
-      background: #333;
+    background-image: url('../bwl_3.jpg');
+}
+}
+
+body {
+      /* background: #333; */
+    background-repeat: no-repeat;
+background-size: contain;
   color: #FFF;
   font-family: "Open Sans";
   font-weight: 300;
@@ -84,7 +98,8 @@ body {
     background-color: #2C2F33 !important
 }
 .heading {
-    padding: 100px 50px !important;
+    /* padding: 100px 50px !important; */
+    padding-bottom: 60px;
     color: #fff !important;
     background-image: url("https://auxetite-cdn.sirv.com/wavy-blurple-by-nouridio.svg") !important;
     background-position: bottom !important;
