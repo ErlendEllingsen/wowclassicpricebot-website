@@ -111,7 +111,79 @@ name: 'Enchanted Leather'
   }, {
     type: '<span class="craftingprice">craftingprice</span>',
     name: 'Robe of the Archmage'
-  },  
+  },
+  {
+    type: '<span class="enchprice">enchantingprice</span>',
+    name: 'Enchant Weapon - Spell Power'
+  },
+  {
+    type: '<span class="enchprice">enchantingprice</span>',
+    name: 'Enchant Weapon - Winter\'s Might'
+  },
+  {
+    type: '<span class="enchprice">enchantingprice</span>',
+    name: 'Enchant Weapon - Healing Power'
+  },
+  {
+    type: '<span class="enchprice">enchantingprice</span>',
+    name: 'Enchant Gloves - Frost Power'
+  },
+  {
+    type: '<span class="enchprice">enchantingprice</span>',
+    name: 'Enchant Gloves - Fire Power'
+  },
+  {
+    type: '<span class="enchprice">enchantingprice</span>',
+    name: 'Enchant Cloak - Greater Fire Resistance'
+  },
+  {
+    type: '<span class="enchprice">enchantingprice</span>',
+    name: 'Enchant Cloak - Subtlety'
+  },
+  {
+    type: '<span class="enchprice">enchantingprice</span>',
+    name: 'Enchant Cloak - Stealth'
+  },
+  {
+    type: '<span class="enchprice">enchantingprice</span>',
+    name: 'Enchant Cloak - Dodge'
+  },
+  {
+    type: '<span class="enchprice">enchantingprice</span>',
+    name: 'Enchant 2H Weapon - Major Intellect'
+  },
+  {
+    type: '<span class="enchprice">enchantingprice</span>',
+    name: 'Enchant Weapon - Icy Chill'
+  },
+  {
+    type: '<span class="enchprice">enchantingprice</span>',
+    name: 'Enchant Bracer - Healing Power'
+  },
+  {
+    type: '<span class="enchprice">enchantingprice</span>',
+    name: 'Enchant 2H Weapon - Agility'
+  },
+  {
+    type: '<span class="enchprice">enchantingprice</span>',
+    name: 'Enchant Weapon - Minor Striking'
+  },
+  {
+    type: '<span class="enchprice">enchantingprice</span>',
+    name: 'Enchant Cloak - Lesser Shadow Resistance'
+  },
+  {
+    type: '<span class="enchprice">enchantingprice</span>',
+    name: 'Runed Golden Rod'
+  },
+  {
+    type: '<span class="enchprice">enchantingprice</span>',
+    name: 'Runed Silver Rod'
+  },
+  {
+    type: '<span class="enchprice">enchantingprice</span>',
+    name: 'Greater Magic Wand'
+  }
   ];
   var  i = 0;
   var count = Math.floor(Math.random()*typeString.length);

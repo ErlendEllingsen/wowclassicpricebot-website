@@ -8,6 +8,10 @@
     color: #FFD47F;
 }
 
+.enchprice {
+    color: #428CFF;
+}
+
 @media only screen and (max-width: 600px) {
     body {
         background-image: url('../bwl_mobile.jpg');
