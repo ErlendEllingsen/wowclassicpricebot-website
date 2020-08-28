@@ -154,7 +154,7 @@ body {
 .card-title {
     font-size: 28px !important;
     font-weight: 600 !important;
-    color: #7289DA !important;
+    color: #7289DA;
 }
 
 .statistics {
